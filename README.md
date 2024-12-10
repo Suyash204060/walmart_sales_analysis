@@ -44,7 +44,7 @@ Table Creation: Set up tables in  MySQL ausing Python SQLAlchemy to automate tab
 Verification: Run initial SQL queries to confirm that the data has been loaded accurately.
 
 8)  SQL Analysis:
-9)  Business Problem-Solving and Exploratory Data Analysis (EDA)
+****  Business Problem-Solving and Exploratory Data Analysis (EDA)
 Exploratory Data Overview (EDA):
 Branch Analysis:
 Count and categorize branches to understand distribution and sales contribution.
